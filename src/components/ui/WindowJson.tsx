@@ -87,7 +87,7 @@ const WindowJson = () => {
               'linkedin.com/in/alexsmith'
             </span> */}
             <br />
-            {"  "}experience: <span className="text-blue-500">'Enterprise Security Operations'</span>
+            {"  "}experience: <span className={isDarkMode ? "text-accent-400" : "text-accent-600"}>'Enterprise Security Operations'</span>
             {/* ,
             <br />
             {"  "}specialization:{" "}

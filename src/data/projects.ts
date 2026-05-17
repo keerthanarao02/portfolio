@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
       "A CNN-based model to detect rice leaf diseases from plant images using deep learning.",
     longDescription:
       "Convolutional network trained on curated plant pathology images to classify common rice leaf conditions. Includes preprocessing (resize, normalize), evaluation metrics, and notes on data imbalance and augmentation.",
-    image: "/images/portfolio/android_malware.png",
+    image: "/images/portfolio/riceLeafDetection.png",
     tags: ["Deep Learning", "Machine Learning", "CNN"],
     featuredTags: ["Deep Learning", "CNN"],
     codeUrl:
